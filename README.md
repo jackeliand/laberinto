@@ -26,6 +26,13 @@ En cualquier momento presiona la tecla :question: ("?") para ver los comandos de
 
 Los usuarios de windows deberían cambiar a otro sistema operativo. Sin embargo, les dejo un archivo zip con el juego compilado. Solo hay que [descargarlo, descomprimirlo y correr "laberinto.exe"](https://github.com/jackeliand/laberinto/raw/master/laberinto.zip)
 
+##Screenshots
+
+![Screenshot1](https://raw.githubusercontent.com/jackeliand/laberinto/master/img/01.jpg)
+
+![Screenshot2](https://raw.githubusercontent.com/jackeliand/laberinto/master/img/02.jpg)
+
+
 ##Por hacer
 
 - [x] "Laberinto" pide el nombre del jugador al inicio
