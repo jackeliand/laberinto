@@ -24,7 +24,7 @@ para jugar.
 
 En cualquier momento presiona la tecla :question: ("?") para ver los comandos del juego.
 
-Los usuarios de windows deberían cambiar a otro sistema operativo. Sin embargo, les dejo un archivo zip con el juego compilado. Solo hay que [descargarlo, descomprimirlo y correr "laberinto.exe"](https://github.com/jackeliand/laberinto/raw/master/laberinto.zip)
+Los usuarios de windows deberían cambiar a otro sistema operativo. Sin embargo, les dejo un archivo zip con el juego compilado. Solo hay que [descargarlo, descomprimirlo y correr "laberinto.exe"](https://github.com/jackeliand/laberinto/raw/master/win/laberinto.zip)
 
 ##Screenshots
 
