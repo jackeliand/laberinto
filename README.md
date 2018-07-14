@@ -49,4 +49,5 @@ Los usuarios de windows deberían cambiar a otro sistema operativo. Sin embargo,
 - [ ] "Tiles" o mejorar la consola con gráficos
 
 ##Contacto
+
 [Telegram](telegram.me/eliand)
