@@ -50,4 +50,4 @@ Los usuarios de windows deberían cambiar a otro sistema operativo. Sin embargo,
 
 ##Contacto
 
-[Telegram](telegram.me/eliand)
+[Telegram](http://telegram.me/eliand)
